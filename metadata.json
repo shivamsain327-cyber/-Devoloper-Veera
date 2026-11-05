@@ -1,0 +1,6 @@
+{
+  "name": "AuraBot AI",
+  "description": "Professional personal AI assistant with multilingual chat, document analysis, tools, web research, voice interaction, and user-controlled memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
